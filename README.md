@@ -1,14 +1,14 @@
 ### Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-👩‍💻 I'm Rita, a full stack software engineer  
-🤖 Before starting in STEM, I worked as an art researcher and project manager in the art industry 🖼️ 
-🔭 I’m currently working on a personal project.
-🌱 I’m currently learning Data Structures & Algorithms.
-When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
+- 👩‍💻 I'm Rita, a full stack software engineer  
+- 🤖 Before starting in STEM, I worked as an art researcher and project manager in the art industry 🖼️ 
+- 🔭 I’m currently working on a personal project.
+- 🌱 I’m currently learning Data Structures & Algorithms.
+- When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
 
-💬 If you want to say hi, [shoot me a message](mailto:margarita.danshina@gmail.com).
+- 💬 If you want to say hi, [shoot me a message](mailto:margarita.danshina@gmail.com).
 
-⚙️ Languages & Tools:
+- ⚙️ Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
