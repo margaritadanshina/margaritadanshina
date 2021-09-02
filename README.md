@@ -1,23 +1,29 @@
 ### Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Rita, a full stack software engineer. 
+👩‍💻 I'm Rita, a full stack software engineer  
+🤖 Before starting in STEM, I worked as an art researcher and project manager in the art industry 🖼️ 
+🔭 I’m currently working on a personal project.
+🌱 I’m currently learning Data Structures & Algorithms.
 
- 
-When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
-
-💬 If you want to say hi, [shoot me a message](mailto:margarita.danshina@gmail.com).
 
 ⚙️ Languages & Tools:
 
-<img src="jslogo.png" height="40">
-<img src="html5.png" height="40">
-<img src="css3.png" height="40">
-<img src="react.png" height="40">
-<img src="redux.png" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="40">
-<img src="npm.png" height="40">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/webpack.png"/>
+<img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
- 
+ When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
+
+💬 If you want to say hi, [shoot me a message](mailto:margarita.danshina@gmail.com).
 
 <!--
 **margaritadanshina/margaritadanshina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
