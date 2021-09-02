@@ -15,13 +15,14 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+<img align="left" img src="https://img.icons8.com/color-glass/48/000000/github.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
- When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
+
+When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
 
 💬 If you want to say hi, [shoot me a message](mailto:margarita.danshina@gmail.com).
 
