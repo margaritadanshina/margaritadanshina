@@ -4,7 +4,9 @@
 🤖 Before starting in STEM, I worked as an art researcher and project manager in the art industry 🖼️ 
 🔭 I’m currently working on a personal project.
 🌱 I’m currently learning Data Structures & Algorithms.
+When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
 
+💬 If you want to say hi, [shoot me a message](mailto:margarita.danshina@gmail.com).
 
 ⚙️ Languages & Tools:
 
@@ -22,9 +24,7 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
 
-When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
 
-💬 If you want to say hi, [shoot me a message](mailto:margarita.danshina@gmail.com).
 
 <!--
 **margaritadanshina/margaritadanshina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
