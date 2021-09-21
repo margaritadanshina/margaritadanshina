@@ -3,7 +3,7 @@
 - 👩‍💻 I'm Rita, a full stack software engineer  
 - 🤖 Before starting in STEM, I worked as a researcher and project manager in the art industry 🖼️ 
 - 🔭 I’m currently working on a personal project and learning Data Structures & Algorithms.
-- When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
+- When I'm not coding, I'm doing yoga 🧘‍♀️ or training my cattle dog 🐶 
 
 - 💬 If you want to say hi, [shoot me a message](mailto:margarita.danshina@gmail.com).
 
