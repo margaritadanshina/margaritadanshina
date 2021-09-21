@@ -1,7 +1,7 @@
 ### Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👩‍💻 I'm Rita, a full stack software engineer  
-- 🤖 Before starting in STEM, I worked as an art researcher and project manager in the art industry 🖼️ 
+- 🤖 Before starting in STEM, I worked as a researcher and project manager in the art industry 🖼️ 
 - 🔭 I’m currently working on a personal project and learning Data Structures & Algorithms.
 - When I'm not coding, I'm doing yoga 🧘‍♀️ or training my pup 🐶 
 
