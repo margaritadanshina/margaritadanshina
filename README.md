@@ -1,4 +1,4 @@
-### Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+### Hi everyone! :wave: 
 
 - 👩‍💻 I'm Rita, a full stack software engineer  
 - 🤖 Before starting in STEM, I worked as a researcher and project manager in the art industry 🖼️ 
